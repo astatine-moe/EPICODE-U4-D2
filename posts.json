@@ -1,0 +1,60 @@
+[
+    {
+        "_id": "52356234962348956238",
+        "category": "news",
+        "title": "Blog post 1",
+        "cover": "download.jpg",
+        "readTime": {
+            "value": 2,
+            "unit": "minute"
+        },
+        "author": {
+            "name": "Morgan",
+            "surname": "Evans",
+            "email": "morgan@morganevans.dev",
+            "dob": "2022-12-11",
+            "avatar": "https://ui-avatars.com/api/?name=Morgan%20Evans",
+            "id": "2d9ddd7ea0cfab73edc84f1647c0016f"
+        },
+        "content": "<h1>Blog post 1</h1>"
+    },
+
+    {
+        "_id": "523562349665346956238",
+        "category": "news",
+        "title": "Blog post 2",
+        "cover": "download.jpg",
+        "readTime": {
+            "value": 2,
+            "unit": "minute"
+        },
+        "author": {
+            "name": "Morgan",
+            "surname": "Evans",
+            "email": "morgan@morganevans.dev",
+            "dob": "2022-12-11",
+            "avatar": "https://ui-avatars.com/api/?name=Morgan%20Evans",
+            "id": "2d9ddd7ea0cfab73edc84f1647c0016f"
+        },
+        "content": "<h1>Blog post 2</h1>"
+    },
+    {
+        "_id": "523463634648956238",
+        "category": "news",
+        "title": "Blog post 3",
+        "cover": "download.jpg",
+        "readTime": {
+            "value": 2,
+            "unit": "minute"
+        },
+        "author": {
+            "name": "Morgan",
+            "surname": "Evans",
+            "email": "morgan@morganevans.dev",
+            "dob": "2022-12-11",
+            "avatar": "https://ui-avatars.com/api/?name=Morgan%20Evans",
+            "id": "2d9ddd7ea0cfab73edc84f1647c0016f"
+        },
+        "content": "<h1>Blog post 3</h1>"
+    }
+]

@@ -1,10 +1,10 @@
 [
     {
-        "name": "test2",
-        "surname": "test2",
-        "email": "test@test.com",
+        "name": "Morgan",
+        "surname": "Evans",
+        "email": "morgan@morganevans.dev",
         "dob": "2022-12-11",
-        "avatar": "https://ui-avatars.com/api/?name=test%20test",
-        "id": "47f62763c918da6a53fa77783c996436"
+        "avatar": "https://ui-avatars.com/api/?name=Morgan%20Evans",
+        "id": "2d9ddd7ea0cfab73edc84f1647c0016f"
     }
 ]

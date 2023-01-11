@@ -4,6 +4,7 @@ const express = require("express"),
     path = require("path"),
     cors = require("cors"),
     http = require("http");
+const expressListRoutes = require("express-list-routes");
 
 const app = express();
 const server = http.createServer(app);
@@ -44,4 +45,5 @@ async function* walk(dir) {
     }
 
     console.log("Ready @ http://127.0.0.1:1000/authors");
+    console.table(expressListRoutes(app));
 })();
